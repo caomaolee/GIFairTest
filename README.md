@@ -1,2 +1,2 @@
-# GiFairTest
+# GIFairTest
 TEST
